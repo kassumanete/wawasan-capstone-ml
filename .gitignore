@@ -15,4 +15,7 @@
 .cxx
 local.properties
 /ml_modeling/supplier_schedule.csv
+/ml_modeling/test_set/*
+/ml_modeling/train_set/*
+/ml_modeling/val_set/*
 /ml_modeling/sales_quantity.csv
