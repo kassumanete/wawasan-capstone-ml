@@ -1,4 +1,4 @@
-<h2 align="center">Wawasan</h2>
+<h1 align="center">Wawasan</h1>
 
 ## Built using:
 - [Tensorflow](https://www.tensorflow.org/)
