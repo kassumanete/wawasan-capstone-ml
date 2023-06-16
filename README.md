@@ -1,6 +1,4 @@
-
 <h2 align="center">Wawasan</h2>
-<br />
 
 ## Built using:
 - [Tensorflow](https://www.tensorflow.org/)
@@ -26,6 +24,7 @@ This is the architecture:
 - *supplier* (string): A string code of the supplier.
 - *date features* (float): List of feature for date (refer to notebook for more details).
 - *sales_window* (float): List of sales of the last 30 days
+
 **Output:**
   - *quantity* (int): Predicted quantity of the sales for the next day.
 
