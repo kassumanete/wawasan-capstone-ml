@@ -14,4 +14,6 @@ The csv has the following column structure:
 
 ## Models
 You can also used the pretrained models in [model](model) folder by using the following command:
->new_model = tf.keras.models.load_model('modelpath')
+```
+new_model = tf.keras.models.load_model('modelpath')
+```
