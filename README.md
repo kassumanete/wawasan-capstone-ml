@@ -39,22 +39,22 @@ This is the architecture:
 
 **Requires linux**
 You need to use flask, so ensure you install the dependencies by running the following command in your shell:
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 You then just have to run the app by running:
-'''
+```
 python predict_api.py
-'''
+```
 
 The server should then start in port 5000.
 
 ### Making a prediction
 SEND a get request to:
-'''
+```
 http://hostname:5000/predict/supplier_name
-'''
+```
 Where:
 - *hostname* is the server that the API is on
 - *supplier_name* is the name of suppliers (undisclosed)
