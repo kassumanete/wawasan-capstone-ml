@@ -2,7 +2,7 @@
 <h2 align="center">Wawasan</h2>
 <br />
 
-## Built using: \
+## Built using:
 - [Tensorflow](https://www.tensorflow.org/)
 - [Google Colab](https://colab.research.google.com/)
 - [Google Cloud Platform](https://cloud.google.com/)
