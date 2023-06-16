@@ -17,5 +17,7 @@
 - days (int): Predicted days until supplier will come next.
 
 This is the architecture:
+<p align="center">
     <img src="images/supplier_schedule_architecture.png" alt="Prediction architecture>
+</p>
 
