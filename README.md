@@ -17,7 +17,7 @@
 
 This is the architecture:
 <p align="center">
-    <img src="images/supplier_schedule_architecture.png" alt="Prediction architecture" height="250">
+    <img src="images/supplier_schedule_architecture.png" alt="Prediction architecture" height="500">
 </p>
 
 ### Sales Prediction Model
@@ -31,7 +31,7 @@ This is the architecture:
 
   This is the architecture:
   <p align="center">
-  <img src="images/sales_prediction_architecture.png" alt="Sales architecture" height="250">
+  <img src="images/sales_prediction_architecture.png" alt="Sales architecture" height="500">
   </p>
 
 ## API
