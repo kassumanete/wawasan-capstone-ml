@@ -3,14 +3,14 @@ These are the notebooks used for experimenting. The data is confidential but you
 
 ### Supplier Schedule
 The csv has the following column structure:
->*tanggal* (string): Date the supplier came in the format %Y-%m-%d
->*supplier* (string): Supplier code
+>- *tanggal* (string): Date the supplier came in the format %Y-%m-%d
+>- *supplier* (string): Supplier code
 
 ### Sales Prediction
 The csv has the following column structure:
->*tanggal* (string): Date the purchase was made
->*kode_barang* (string): Barcode of the item
->*quantity* (int): Quantity of item sold on that day
+>- *tanggal* (string): Date the purchase was made
+>- *kode_barang* (string): Barcode of the item
+>- *quantity* (int): Quantity of item sold on that day
 
 ## Models
 You can also used the pretrained models in [model](model) folder by using the following command:
