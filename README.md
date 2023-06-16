@@ -1,7 +1,6 @@
 <p align="center">
-    <h2 align="center">Wawasan<h2>
+    <h2 align="center">Wawasan</h2>
     </p>
-
     ## Built using:
     - [Tensorflow](https://www.tensorflow.org/)
     - [Google Colab](https://colab.research.google.com/)
