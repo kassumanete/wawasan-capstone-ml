@@ -51,7 +51,7 @@ python predict_api.py
 The server should then start in port 5000.
 
 ### Making a prediction
-SEND a get request to:
+Send a GET request to:
 ```
 http://hostname:5000/predict/supplier_name
 ```
