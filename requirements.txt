@@ -1,0 +1,6 @@
+Flask==2.3.2
+numpy==1.24.3
+pandas==2.0.2
+protobuf==4.23.3
+Requests==2.31.0
+google_cloud_aiplatform
