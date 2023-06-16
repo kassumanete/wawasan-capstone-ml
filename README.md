@@ -6,6 +6,7 @@
 - [Google Cloud Platform](https://cloud.google.com/)
 
 ## [Models](ml_modelling/models)
+
 ### Supplier Schedule Predictor
 **Input:**
 - *supplier* (string): A string code of the supplier.
